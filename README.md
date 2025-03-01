@@ -1,10 +1,5 @@
 # 🍕 Pizza Sales Analysis using SQL
 
-<!-- Uploading "pleased-happy-young-woman-gazes-with-happiness-points-with-thumb-aside-free-space-eats-pizza-shows-direction-keeps-jaw-dropped-exclaims-happiness-isolated-yellow-wall.jpg"... -->
-
-## 📌 Project Title  
-**Pizza Sales Analysis using SQL**
-
 ---
 
 ## 📖 Project Description  
