@@ -65,7 +65,6 @@ The dataset consists of four tables:
 ## 💻 Technologies Used  
 - **SQL** (Structured Query Language)  
 - **Database Management System:** MySQL/PostgreSQL  
-- **Data Visualization:** Power BI/Tableau (if applicable)  
 
 ---
 
