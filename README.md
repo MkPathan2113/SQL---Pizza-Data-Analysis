@@ -68,3 +68,25 @@ The dataset consists of four tables:
 
 ---
 
+## How to Use
+- Clone the repository:
+  ```sh
+  git clone https://github.com/MkPathan2113/olympics-sql-analysis.git
+  ```
+- Import the dataset into your SQL environment.
+- Run the SQL queries to explore the data and extract insights.
+
+## Requirements
+- PostgreSQL (or any SQL-compatible database)
+- SQL knowledge
+- Dataset of Pizza Sales
+
+
+## Author
+**Mokhit Khan** - Data Analyst / Data Scientist
+
+## Contributing
+Contributions are welcome! Feel free to submit a pull request with improvements or new queries.
+
+## Contact
+For any questions or discussions, feel free to reach out via GitHub Issues or email me at mokhitkhan@gmail.com
